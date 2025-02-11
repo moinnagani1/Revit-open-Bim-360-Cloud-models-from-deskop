@@ -9,7 +9,6 @@ Revit Cloud Model Opener is a PowerShell script designed to streamline the proce
 - .NET Framework (required for Windows Forms)
 
 ![image](https://github.com/user-attachments/assets/b3eb4c9b-c2e0-46c9-950f-3a24a407e6be)
-![image](https://github.com/user-attachments/assets/b3eb4c9b-c2e0-46c9-950f-3a24a407e6be)
 
 
 ## Features
